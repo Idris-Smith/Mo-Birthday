@@ -51,7 +51,7 @@ function App() {
             className="text-center text-white"
           >
             <h1 className="text-6xl font-bold mb-4">Happy 55th Birthday</h1>
-            <h2 className="text-4xl">Mohammed Dada Mia</h2>
+            <h2 className="text-4xl">Mohamed Dada Mia</h2>
           </motion.div>
         </div>
       </motion.div>
